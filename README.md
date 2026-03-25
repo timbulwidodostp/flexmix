@@ -1,6 +1,8 @@
 # flexmix
 Flexible Mixture Modeling Use flexmix With (In) R Software
 
+https://www.youtube.com/watch?v=VFTr1-Pf6OY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
